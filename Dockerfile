@@ -1,4 +1,4 @@
-FROM evoapicloud/evolution-api:v2.3.5
+FROM evoapicloud/evolution-api:v2.3.7
 
 USER root
 
