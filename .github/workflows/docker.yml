@@ -33,4 +33,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: YOUR_EXACT_JRM_IMAGE_NAME:v1
+          tags: jdr-r45mq87yg.justrunmy.app/r45mq87yg:v1
